@@ -1,5 +1,5 @@
 pytz==2018.7
-Django==2.1.4
+Django==2.2.10
 djangorestframework==3.9.0
 dry-rest-permissions==0.1.10
 
