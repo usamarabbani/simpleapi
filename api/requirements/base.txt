@@ -1,6 +1,6 @@
 pytz==2018.7
 Django==2.1.4
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 dry-rest-permissions==0.1.10
 
 MarkupSafe==1.1.0
